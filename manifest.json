@@ -1,6 +1,6 @@
 {
-    "short_name": "Wordle",
-    "name": "Wordle",
+    "short_name": "Stealdle",
+    "name": "Stealdle",
     "icons": [
       {
         "src": "/wordle/images/wordle_logo_48x48.png",
@@ -42,6 +42,6 @@
     "background_color": "#6aaa64",
     "display": "standalone",
     "theme_color": "#6aaa64",
-    "description": "A daily word game"
+    "description": "Stealsies wordsies"
   }
   
